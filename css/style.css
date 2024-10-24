@@ -5,6 +5,7 @@ body {
     padding: 0;
 }
 
+/* Header Styles */
 header {
     background-color: #ff6f61;
     color: white;
@@ -18,43 +19,61 @@ header input[type="text"] {
     margin-top: 10px;
     padding: 10px;
     width: 80%;
-    max-width: 400px;
+    max-width: 600px;
     border: none;
     border-radius: 5px;
+    font-size: 1em;
 }
 
+/* Recipes Container */
 #recipes-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     padding: 20px;
+    max-width: 1600px;
+    margin: 0 auto;
 }
 
+/* Recipe Card Styles */
 .recipe {
     border: 1px solid #ddd;
     border-radius: 8px;
     margin: 10px;
-    width: 300px;
+    width: calc(20% - 20px);
+    /* Default to 5 cards per row */
     overflow: hidden;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     background-color: #fff;
+    display: flex;
+    flex-direction: column;
 }
 
 .recipe-content {
     padding: 15px;
+    flex-grow: 1;
 }
 
 .recipe h2 {
     margin-top: 0;
+    font-size: 1.5em;
 }
 
 .recipe h3 {
     margin-bottom: 5px;
     margin-top: 15px;
+    font-size: 1.2em;
 }
 
-.recipe p {
-    margin: 5px 0;
+.recipe h4 {
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-size: 1.1em;
+}
+
+.recipe p,
+.recipe li {
+    font-size: 1em;
 }
 
 .recipe ul,
@@ -66,13 +85,99 @@ header input[type="text"] {
     margin-bottom: 5px;
 }
 
-@media (max-width: 600px) {
+/* Media Queries for Responsiveness */
+
+/* For extra-large screens */
+@media (min-width: 1920px) {
     #recipes-container {
-        flex-direction: column;
-        align-items: center;
+        max-width: 1920px;
     }
 
     .recipe {
+        width: calc(16.666% - 20px);
+        /* 6 cards per row */
+    }
+}
+
+/* For large screens */
+@media (min-width: 1600px) and (max-width: 1919px) {
+    #recipes-container {
+        max-width: 1600px;
+    }
+
+    .recipe {
+        width: calc(20% - 20px);
+        /* 5 cards per row */
+    }
+}
+
+/* For medium-large screens */
+@media (min-width: 1280px) and (max-width: 1599px) {
+    #recipes-container {
+        max-width: 1280px;
+    }
+
+    .recipe {
+        width: calc(25% - 20px);
+        /* 4 cards per row */
+    }
+}
+
+/* For medium screens */
+@media (min-width: 1024px) and (max-width: 1279px) {
+    #recipes-container {
+        max-width: 1024px;
+    }
+
+    .recipe {
+        width: calc(33.333% - 20px);
+        /* 3 cards per row */
+    }
+}
+
+/* For tablets and small screens */
+@media (min-width: 600px) and (max-width: 1023px) {
+    #recipes-container {
+        max-width: 100%;
+        padding: 10px;
+    }
+
+    .recipe {
+        width: calc(50% - 20px);
+        /* 2 cards per row */
+    }
+}
+
+/* For mobile phones */
+@media (max-width: 599px) {
+    header input[type="text"] {
         width: 90%;
+        font-size: 1em;
+    }
+
+    #recipes-container {
+        flex-direction: column;
+        align-items: center;
+        padding: 10px;
+        max-width: 100%;
+    }
+
+    .recipe {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .recipe h2 {
+        font-size: 1.4em;
+    }
+
+    .recipe h3,
+    .recipe h4 {
+        font-size: 1.1em;
+    }
+
+    .recipe p,
+    .recipe li {
+        font-size: 1em;
     }
 }
