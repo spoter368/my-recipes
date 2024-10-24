@@ -1,0 +1,929 @@
+{
+    "recipes": [
+        {
+            "name": "Zuppa Toscana",
+            "source": "Olive Garden",
+            "servings": 5,
+            "cooking_time": "45 mins",
+            "ingredients": [
+                {
+                    "quantity": "1/4 bunch",
+                    "item": "Kale, chopped"
+                },
+                {
+                    "quantity": "1 lb",
+                    "item": "Spicy Italian sausage"
+                },
+                {
+                    "quantity": "1",
+                    "item": "Chopped onion"
+                },
+                {
+                    "quantity": "2 tbsp",
+                    "item": "Minced garlic"
+                },
+                {
+                    "quantity": "1 cup",
+                    "item": "Heavy cream"
+                },
+                {
+                    "quantity": "1 lb",
+                    "item": "Chopped and peeled potatoes"
+                },
+                {
+                    "quantity": "5 cups",
+                    "item": "Chicken broth"
+                },
+                {
+                    "quantity": "5 cups",
+                    "item": "Water"
+                }
+            ],
+            "notes": "You can use pre-cut potatoes from the green bag.",
+            "instructions": [
+                "Brown the sausage, onions, and garlic together, then drain.",
+                "Add potatoes, water, and broth. Bring to a boil, then simmer for about 20 minutes.",
+                "Add heavy cream and kale. Heat until warmed through.",
+                "Serve with Parmesan and garlic bread."
+            ]
+        },
+        {
+            "name": "Chili",
+            "source": "Mom/Barbara",
+            "servings": 6,
+            "ingredients": [
+                {
+                    "quantity": "1 lb",
+                    "item": "93/7 Hamburger"
+                },
+                {
+                    "quantity": "1 jar",
+                    "item": "Chili sauce"
+                },
+                {
+                    "quantity": "1 can",
+                    "item": "Fire-roasted tomatoes"
+                },
+                {
+                    "quantity": "1 can",
+                    "item": "Petite-diced tomatoes"
+                },
+                {
+                    "quantity": "1 cup",
+                    "item": "Ketchup"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "item": "Sugar"
+                },
+                {
+                    "quantity": "1",
+                    "item": "Chopped onion"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "item": "Red pepper flakes"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "item": "Cumin"
+                },
+                {
+                    "quantity": "2 cans",
+                    "item": "Kidney beans"
+                },
+                {
+                    "quantity": "2 tbsp",
+                    "item": "Chili powder"
+                },
+                {
+                    "quantity": "1/2",
+                    "item": "Pepper"
+                }
+            ],
+            "instructions": [
+                "Cook chopped onion and red pepper together in olive oil.",
+                "Add beef and brown. Do not drain.",
+                "Add all other ingredients. Do not drain tomatoes, but rinse beans.",
+                "Bring to a bubble, then lower heat to simmer for an hour."
+            ]
+        },
+        {
+            "name": "Seasoned Broccoli",
+            "source": "Mom",
+            "cooking_time": "10 mins",
+            "ingredients": [
+                {
+                    "quantity": "1 bunch or bag",
+                    "item": "Fresh broccoli"
+                },
+                {
+                    "quantity": "3 tbsp",
+                    "item": "Butter"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Salt"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Pepper"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Italian seasoning"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Chopped carrots"
+                }
+            ],
+            "instructions": [
+                "Melt butter in a pan.",
+                "Add vegetables and season with salt, pepper, and Italian seasoning.",
+                "Sauté until dark green and soft, but not mushy."
+            ]
+        },
+        {
+            "name": "Beefy Carrots",
+            "source": "Mom (Nana)",
+            "servings": 2,
+            "cooking_time": "10 mins",
+            "ingredients": [
+                {
+                    "quantity": "1 can",
+                    "item": "Carrots"
+                },
+                {
+                    "quantity": "1 cube",
+                    "item": "Beef bouillon"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Pepper"
+                }
+            ],
+            "instructions": [
+                "Put all ingredients together in a pot.",
+                "Boil until the bouillon dissolves.",
+                "Enjoy! (Tastes like beef stew carrots)"
+            ]
+        },
+        {
+            "name": "Chicken Alfredo",
+            "source": "Mom",
+            "servings": 4,
+            "cooking_time": "30 mins",
+            "ingredients": [
+                {
+                    "quantity": "1 lb",
+                    "item": "Chicken breast, chopped"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Cajun seasoning"
+                },
+                {
+                    "quantity": "4+ tbsp",
+                    "item": "Butter"
+                },
+                {
+                    "quantity": "as needed",
+                    "item": "Fettuccini noodles"
+                },
+                {
+                    "quantity": "1 jar",
+                    "item": "Bertolli Garlic Alfredo sauce"
+                },
+                {
+                    "quantity": "as needed",
+                    "item": "Milk"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Sun-dried tomatoes"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Broccoli spears (fresh or frozen), chopped"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Garlic bread"
+                }
+            ],
+            "instructions": [
+                "Melt butter in a large pan. Add chicken breasts and cook on medium heat for approximately 10 minutes.",
+                "Sprinkle with Cajun seasoning to taste and stir until chicken is cooked.",
+                "Add chopped broccoli, stir, and cover. Let simmer with the sauce.",
+                "Pour alfredo sauce into the pan. Add milk to the sauce jar (about 1/2 cup), shake, and add to the pan.",
+                "Drain the noodles, add the sauce, and serve with garlic bread."
+            ]
+        },
+        {
+            "name": "Tacos (Soft)",
+            "source": "Mom",
+            "servings": "1 Colton",
+            "cooking_time": "30 mins",
+            "ingredients": [
+                {
+                    "quantity": "1 lb",
+                    "item": "Ground beef"
+                },
+                {
+                    "quantity": "1 packet",
+                    "item": "Taco seasoning"
+                },
+                {
+                    "quantity": "as needed",
+                    "item": "Tortilla shells"
+                },
+                {
+                    "quantity": "as needed",
+                    "item": "Shredded cheddar cheese"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Salsa"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Lettuce"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Tomatoes"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Sour cream"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Guacamole"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Jalapeños"
+                }
+            ],
+            "instructions": [
+                "Brown and chop the beef.",
+                "Add 1/2 cup of water and taco seasoning. Simmer for 5-10 minutes.",
+                "Cover tortillas with a moist paper towel and microwave for 30 seconds to 1 minute, depending on the quantity.",
+                "Build your taco with desired toppings."
+            ]
+        },
+        {
+            "name": "Spaghetti Sauce",
+            "source": "Mom (Nana)",
+            "servings": 6,
+            "cooking_time": "30 mins",
+            "ingredients": [
+                {
+                    "quantity": "as needed",
+                    "item": "Noodles or Ravioli"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Parmesan cheese"
+                },
+                {
+                    "quantity": "1 lb",
+                    "item": "Ground beef"
+                },
+                {
+                    "quantity": "1/2 lb",
+                    "item": "Spicy sausage"
+                },
+                {
+                    "quantity": "1",
+                    "item": "Chopped onion"
+                },
+                {
+                    "quantity": "2 cans",
+                    "item": "Diced tomatoes (1 fire-roasted)"
+                },
+                {
+                    "quantity": "as needed",
+                    "item": "Ragu meat-flavored sauce (at least 24 oz)"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Italian seasoning or fresh basil & oregano"
+                },
+                {
+                    "quantity": "2 tbsp each",
+                    "item": "Ketchup, Heinz 57, Worcestershire sauce"
+                }
+            ],
+            "instructions": [
+                "Brown hamburger, sausage, and onions together; drain.",
+                "Add all other ingredients and let simmer while pasta is cooking.",
+                "Drain pasta and serve with Parmesan cheese and garlic bread."
+            ],
+            "notes": "Leftovers can be frozen to last."
+        },
+        {
+            "name": "Quiche",
+            "source": "Tressa",
+            "servings": 4,
+            "cooking_time": "1 hr 15 mins",
+            "preheat": "350°F",
+            "ingredients": [
+                {
+                    "quantity": "1/2 lb",
+                    "item": "Bacon, chopped and cooked"
+                },
+                {
+                    "quantity": "8 oz",
+                    "item": "Swiss cheese, chopped"
+                },
+                {
+                    "quantity": "2 tbsp",
+                    "item": "Flour"
+                },
+                {
+                    "quantity": "dash",
+                    "item": "Cayenne pepper"
+                },
+                {
+                    "quantity": "1/2 tsp",
+                    "item": "Salt"
+                },
+                {
+                    "quantity": "1 1/2 cups",
+                    "item": "Milk"
+                },
+                {
+                    "quantity": "4",
+                    "item": "Eggs"
+                },
+                {
+                    "quantity": "1",
+                    "item": "Deep dish pie crust"
+                }
+            ],
+            "instructions": [
+                "Toss together cooled bacon, cheese, and flour. Add to the pie shell.",
+                "Mix milk and eggs together thoroughly. Add salt and cayenne pepper, then pour into the shell.",
+                "Cover with an aluminum foil tent and bake for 50 minutes."
+            ]
+        },
+        {
+            "name": "Pot Roast",
+            "source": "Mom",
+            "servings": 6,
+            "cooking_time": "3 hrs",
+            "preheat": "450°F",
+            "ingredients": [
+                {
+                    "quantity": "1 packet",
+                    "item": "Onion soup mix"
+                },
+                {
+                    "quantity": "2 lbs",
+                    "item": "Beef roast"
+                },
+                {
+                    "quantity": "as needed",
+                    "item": "Baby carrots (or sliced)"
+                },
+                {
+                    "quantity": "1",
+                    "item": "Chopped onion"
+                },
+                {
+                    "quantity": "1 bag",
+                    "item": "Yellow small potatoes, chopped"
+                },
+                {
+                    "quantity": "1 box",
+                    "item": "Beef broth (large)"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "item": "Balsamic vinegar"
+                },
+                {
+                    "quantity": "1 can",
+                    "item": "Cream of mushroom soup"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Salt, pepper, basil"
+                }
+            ],
+            "instructions": [
+                "Mix onions, potatoes, and carrots together in the bottom of a large pan (or crock pot).",
+                "Place beef on top of vegetables, fat side up. Sprinkle with onion soup mix, salt, pepper, and basil.",
+                "Mix broth, mushroom soup, and vinegar in a bowl, then pour around beef and onto vegetables.",
+                "Cover with foil and cook at 450°F for 1 hour.",
+                "Turn down to 300°F and cook for 2 more hours. Check beef; if not done (falling apart easily), cook longer.",
+                "For crock pot method, cook on low for 6 hours."
+            ]
+        },
+        {
+            "name": "Baked (BBQ) Chicken",
+            "source": "Mom",
+            "cooking_time": "20 mins",
+            "preheat": "400°F",
+            "ingredients": [
+                {
+                    "quantity": "as needed",
+                    "item": "Chicken breast"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Cajun seasoning"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Salt & pepper"
+                },
+                {
+                    "quantity": "as needed",
+                    "item": "BBQ sauce (e.g., Sweet Baby Ray's)"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Other sauce or marinade"
+                }
+            ],
+            "instructions": [
+                "Season chicken in a baking pan. (Cover pan with foil first for easy cleanup.)",
+                "Cover with sauce for the last 5 minutes of cooking.",
+                "Cook for 20 minutes (a little longer for frozen chicken).",
+                "Check for doneness.",
+                "Use any sauce or seasonings you like to spice it up."
+            ]
+        },
+        {
+            "name": "Parmesan Crusted Chicken",
+            "ingredients": [
+                {
+                    "quantity": "to taste",
+                    "item": "Basil"
+                },
+                {
+                    "quantity": "4 tbsp",
+                    "item": "Butter"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "item": "Olive oil"
+                },
+                {
+                    "quantity": "1 cup",
+                    "item": "Panko"
+                },
+                {
+                    "quantity": "1 tsp",
+                    "item": "Garlic powder"
+                },
+                {
+                    "quantity": "2 tsp",
+                    "item": "Italian seasoning"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "item": "Parmesan cheese"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "item": "Parsley"
+                },
+                {
+                    "quantity": "1/2 tsp",
+                    "item": "Salt"
+                },
+                {
+                    "quantity": "1/4 tsp",
+                    "item": "Pepper"
+                },
+                {
+                    "quantity": "4",
+                    "item": "Chicken breasts"
+                }
+            ],
+            "instructions": [
+                "Melt olive oil and butter together.",
+                "Mix dry ingredients together in a separate bowl.",
+                "Dip chicken in butter mixture, then roll in dry ingredients.",
+                "Bake at 425°F for 18-20 minutes."
+            ]
+        },
+        {
+            "name": "French Toast",
+            "source": "Mom",
+            "ingredients": [
+                {
+                    "quantity": "6 slices",
+                    "item": "Bread"
+                },
+                {
+                    "quantity": "2",
+                    "item": "Eggs"
+                },
+                {
+                    "quantity": "1 cup",
+                    "item": "Milk"
+                },
+                {
+                    "quantity": "2 tsp",
+                    "item": "Vanilla"
+                },
+                {
+                    "quantity": "as needed",
+                    "item": "Butter"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Cinnamon"
+                }
+            ],
+            "instructions": [
+                "Heat pan until butter sizzles when added, on medium-high heat.",
+                "Mix eggs, milk, and vanilla together until eggs are broken up and mixture is smooth.",
+                "Use two forks to dip bread quickly, flip, then place on buttered pan.",
+                "Check for doneness, flip and cook for another couple of minutes.",
+                "Sprinkle with cinnamon before serving."
+            ]
+        },
+        {
+            "name": "Pumpkin Bread",
+            "source": "Mom",
+            "ingredients": [
+                {
+                    "quantity": "3 1/2 cups",
+                    "item": "Flour"
+                },
+                {
+                    "quantity": "1/4 tsp",
+                    "item": "Baking powder"
+                },
+                {
+                    "quantity": "2 tsp",
+                    "item": "Baking soda"
+                },
+                {
+                    "quantity": "1 1/2 tsp",
+                    "item": "Salt"
+                },
+                {
+                    "quantity": "1/2 tsp",
+                    "item": "Ginger"
+                },
+                {
+                    "quantity": "1 tsp",
+                    "item": "Nutmeg"
+                },
+                {
+                    "quantity": "1 1/2 tsp",
+                    "item": "Cloves"
+                },
+                {
+                    "quantity": "1 1/2 tsp",
+                    "item": "Cinnamon"
+                },
+                {
+                    "quantity": "1 1/2 cups",
+                    "item": "Sugar"
+                },
+                {
+                    "quantity": "1 1/2 cups",
+                    "item": "Brown sugar"
+                },
+                {
+                    "quantity": "1 cup",
+                    "item": "Oil"
+                },
+                {
+                    "quantity": "2 cups",
+                    "item": "Pumpkin"
+                },
+                {
+                    "quantity": "4",
+                    "item": "Eggs"
+                },
+                {
+                    "quantity": "2 tbsp",
+                    "item": "Pumpkin spice seasoning",
+                    "note": "Alternative to ginger, nutmeg, cloves, and cinnamon"
+                }
+            ],
+            "instructions": [
+                "Mix all dry ingredients together. Use either the individual spices or replace them with pumpkin spice seasoning.",
+                "Add oil and pumpkin, then mix well.",
+                "Add eggs and mix until smooth.",
+                "Spray pans or use muffin cups.",
+                "For bread: bake at 325°F for 50 minutes.",
+                "For muffins: bake at 350°F for 20 minutes.",
+                "Check tops for doneness; they should bounce back when pressed."
+            ]
+        },
+        {
+            "name": "Chocolate Pie",
+            "source": "Mom",
+            "servings": 1,
+            "cooking_time": "45 mins",
+            "preheat": "350°F",
+            "ingredients": [
+                {
+                    "quantity": "1",
+                    "item": "9-inch pie shell"
+                },
+                {
+                    "quantity": "4",
+                    "item": "Eggs"
+                },
+                {
+                    "quantity": "3/4 cup",
+                    "item": "Sugar"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "item": "Brown sugar"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "item": "Vanilla"
+                },
+                {
+                    "quantity": "2 tbsp",
+                    "item": "Bourbon"
+                },
+                {
+                    "quantity": "3/4 cup",
+                    "item": "Light corn syrup"
+                },
+                {
+                    "quantity": "1 stick",
+                    "item": "Melted butter"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "item": "Flour"
+                },
+                {
+                    "quantity": "2 cups",
+                    "item": "Chocolate chips"
+                },
+                {
+                    "quantity": "to taste",
+                    "item": "Whipped cream"
+                },
+                {
+                    "quantity": "optional",
+                    "item": "Pecans"
+                }
+            ],
+            "instructions": [
+                "Beat eggs.",
+                "Add sugar, brown sugar, vanilla, bourbon, corn syrup, melted butter, and flour. Mix well.",
+                "Place chocolate chips in pie shell.",
+                "Pour filling over chocolate chips. Cover with a foil tent.",
+                "Bake at 350°F for 40-45 minutes.",
+                "Enjoy with whipped cream!"
+            ],
+            "notes": "Can be split into two smaller pies."
+        },
+        {
+            "name": "Ice Box Horns",
+            "ingredients": {
+                "dough": [
+                    {
+                        "quantity": "1/2 pound",
+                        "item": "Soft butter"
+                    },
+                    {
+                        "quantity": "1/2 pound",
+                        "item": "Soft cream cheese"
+                    },
+                    {
+                        "quantity": "1/8 tsp",
+                        "item": "Salt"
+                    },
+                    {
+                        "quantity": "2",
+                        "item": "Eggs"
+                    },
+                    {
+                        "quantity": "2 1/2 cups",
+                        "item": "Plain flour"
+                    },
+                    {
+                        "quantity": "1/4 - 1/2 cup",
+                        "item": "Sugar"
+                    }
+                ],
+                "filling": [
+                    {
+                        "quantity": "1/4 cup",
+                        "item": "Finely chopped nuts"
+                    },
+                    {
+                        "quantity": "1/2 cup",
+                        "item": "Brown sugar"
+                    },
+                    {
+                        "quantity": "1/2 cup",
+                        "item": "White sugar"
+                    },
+                    {
+                        "quantity": "1 tsp",
+                        "item": "Cinnamon"
+                    },
+                    {
+                        "quantity": "to taste",
+                        "item": "Nutmeg"
+                    }
+                ]
+            },
+            "instructions": [
+                "Mix dough ingredients with hands until well combined.",
+                "Wrap dough in waxed paper and chill for several hours or overnight.",
+                "Divide dough into 3 parts. Roll each very thin, one at a time.",
+                "Cut like a pizza into 16 triangles.",
+                "Sprinkle each triangle with filling and roll up starting at the wide end.",
+                "Bake on an ungreased cookie sheet at 350°F for 15 minutes."
+            ]
+        },
+        {
+            "name": "Easy Taco Soup",
+            "author": "Valentina Ablaev",
+            "ratings": {
+                "score": 5,
+                "votes": 223
+            },
+            "description": "The easiest homemade taco soup recipe loaded with ground beef, beans, corn, pepper, and tomatoes with a homemade taco seasoning. Top soup with cheese, avocado, sour cream, and tortilla chips.",
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes",
+            "total_time": "30 minutes",
+            "servings": 6,
+            "ingredients": [
+                {
+                    "quantity": "1 pound",
+                    "item": "Lean ground beef"
+                },
+                {
+                    "quantity": "1 Tbsp",
+                    "item": "Olive oil"
+                },
+                {
+                    "quantity": "1 medium",
+                    "item": "Onion, finely diced"
+                },
+                {
+                    "quantity": "1/2",
+                    "item": "Red bell pepper, diced"
+                },
+                {
+                    "quantity": "1/2",
+                    "item": "Green bell pepper, diced"
+                },
+                {
+                    "quantity": "3 cloves",
+                    "item": "Garlic, minced"
+                },
+                {
+                    "quantity": "2 Tbsp",
+                    "item": "Taco seasoning or 1 packet of store-bought taco seasoning"
+                },
+                {
+                    "quantity": "16 oz can",
+                    "item": "Beans, drained (kidney or pinto)"
+                },
+                {
+                    "quantity": "1 cup",
+                    "item": "Corn (canned, fresh, or frozen)"
+                },
+                {
+                    "quantity": "1 1/2 cups",
+                    "item": "Tomatoes, diced (about 1 lb fresh tomatoes)"
+                },
+                {
+                    "quantity": "2 cups",
+                    "item": "Beef broth"
+                }
+            ],
+            "instructions": [
+                "Make Taco Seasoning or measure out 2 Tbsp of store-bought taco seasoning from 1 packet.",
+                "In a Dutch oven, heat oil. Once hot, add the ground beef, onion, and bell peppers and sauté until the beef is browned, breaking it up with a spatula as you cook. Spoon out any excess fat.",
+                "Add garlic and Taco Seasoning, and stir for another minute.",
+                "Add beans, corn, tomatoes, and broth. Bring to a boil then reduce the heat to low, cover, and keep at a simmer for 15 minutes.",
+                "Season to taste with salt and pepper, or add more taco seasoning if desired.",
+                "Serve soup hot with your desired toppings."
+            ],
+            "toppings": [
+                "Cheese",
+                "Avocado",
+                "Sour cream",
+                "Tortilla chips"
+            ]
+        },
+        {
+            "name": "One-Pan 'Marry Me' Chicken Orzo",
+            "author": "Nicole Modic",
+            "ratings": {
+                "score": 4.84,
+                "votes": 65
+            },
+            "description": "Tender chicken breasts paired with a creamy sun-dried tomato sauce and hearty orzo is such a good combination, it'll make you want to marry the person who made it for you! This one-pan dish is an easy, delicious take on the classic 'Marry Me' chicken.",
+            "servings": 6,
+            "ingredients": [
+                {
+                    "quantity": "1.5 pounds",
+                    "item": "Boneless, skinless chicken breast, cut into cubes"
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "item": "Olive oil"
+                },
+                {
+                    "quantity": "4-5 cloves",
+                    "item": "Garlic, mashed"
+                },
+                {
+                    "quantity": "3/4 cup",
+                    "item": "Sun-dried tomatoes, packed in oil and drained"
+                },
+                {
+                    "quantity": "2 teaspoons",
+                    "item": "Italian seasoning"
+                },
+                {
+                    "quantity": "2 teaspoons",
+                    "item": "Paprika"
+                },
+                {
+                    "quantity": "1/2 teaspoon",
+                    "item": "Kosher salt"
+                },
+                {
+                    "quantity": "1 teaspoon",
+                    "item": "Ground black pepper"
+                },
+                {
+                    "quantity": "1 cup",
+                    "item": "Orzo"
+                },
+                {
+                    "quantity": "2 3/4 cups",
+                    "item": "Chicken broth or water"
+                },
+                {
+                    "quantity": "3/4 cup",
+                    "item": "Full-fat coconut milk or heavy cream"
+                },
+                {
+                    "quantity": "2 large handfuls",
+                    "item": "Fresh spinach"
+                },
+                {
+                    "quantity": "3/4 cup",
+                    "item": "Parmesan cheese, freshly grated"
+                }
+            ],
+            "instructions": [
+                "Pat the chicken breasts dry with a paper towel and slice them into cubes. Set them aside.",
+                "Heat a skillet over medium heat and add in the olive oil.",
+                "Once the oil is hot, add in the chicken and cook for 2-3 minutes until the edges start to cook.",
+                "Add in the sun-dried tomatoes, garlic, Italian seasoning, paprika, salt, and black pepper. Cook for another 3-4 minutes.",
+                "Add in the orzo and broth, and stir well.",
+                "Reduce heat to medium, cover the pan, and cook for 12 minutes. Stir every few minutes to prevent the orzo from sticking to the pan.",
+                "Once the orzo is cooked through, add the coconut milk or heavy cream and spinach. Stir until the spinach is wilted.",
+                "Add the freshly grated Parmesan cheese and stir to combine.",
+                "Remove from heat, serve immediately, and enjoy!"
+            ]
+        },
+        {
+            "name": "Muffin Crumble Topping",
+            "ingredients": [
+                {
+                    "quantity": "1/2 cup",
+                    "item": "All-purpose flour"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "item": "Granulated sugar or brown sugar",
+                    "note": "Half and half can be used for a mix of both"
+                },
+                {
+                    "quantity": "4-6 tablespoons",
+                    "item": "Salted butter, slightly melted"
+                },
+                {
+                    "quantity": "1/2 teaspoon",
+                    "item": "Ground cinnamon (optional)"
+                }
+            ],
+            "instructions": [
+                "In a medium bowl, combine the flour and sugar. Add cinnamon if desired.",
+                "Slowly drizzle the butter into the bowl while stirring the crumbs with a fork. Start with 3-4 tablespoons of butter and add more as needed until crumbs form.",
+                "Do not over-mix (you do not want this to become like a dough).",
+                "Store in the refrigerator until ready to use. Evenly spread across muffins, quick breads, or pies."
+            ]
+        }
+    ]
+}
