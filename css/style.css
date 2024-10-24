@@ -11,8 +11,7 @@ header {
     color: white;
     padding: 20px;
     text-align: center;
-    position: sticky;
-    top: 0;
+    /* Removed position: fixed or sticky */
 }
 
 header input[type="text"] {
@@ -23,6 +22,11 @@ header input[type="text"] {
     border: none;
     border-radius: 5px;
     font-size: 1em;
+}
+
+/* Main Content */
+main {
+    /* No margin-top needed since header is not fixed */
 }
 
 /* Recipes Container */
