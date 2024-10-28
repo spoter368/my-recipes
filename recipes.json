@@ -924,6 +924,125 @@
                 "Do not over-mix (you do not want this to become like a dough).",
                 "Store in the refrigerator until ready to use. Evenly spread across muffins, quick breads, or pies."
             ]
+        },
+        {
+            "name": "Chicken Tortilla Soup",
+            "servings": 6,
+            "ingredients": [
+                {
+                    "item": "Butter",
+                    "quantity": "1 tbsp"
+                },
+                {
+                    "item": "Olive oil",
+                    "quantity": "As needed"
+                },
+                {
+                    "item": "Yellow onion, diced",
+                    "quantity": "1"
+                },
+                {
+                    "item": "Large jalapeño, diced",
+                    "quantity": "1"
+                },
+                {
+                    "item": "Cumin",
+                    "quantity": "3 tsp"
+                },
+                {
+                    "item": "Oregano",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "item": "Chili powder",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "item": "Onion powder",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "item": "Garlic powder",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "item": "Garlic, minced",
+                    "quantity": "1 head"
+                },
+                {
+                    "item": "Chicken broth",
+                    "quantity": "4 cups"
+                },
+                {
+                    "item": "Salt",
+                    "quantity": "To taste"
+                },
+                {
+                    "item": "Pepper",
+                    "quantity": "To taste"
+                },
+                {
+                    "item": "Crushed tomatoes, canned",
+                    "quantity": "20 oz"
+                },
+                {
+                    "item": "Rotel",
+                    "quantity": "1 can"
+                },
+                {
+                    "item": "Chicken bouillon (optional)",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "item": "Black beans, canned",
+                    "quantity": "15 oz"
+                },
+                {
+                    "item": "Corn, canned",
+                    "quantity": "15.25 oz"
+                },
+                {
+                    "item": "Rotisserie chicken, shredded",
+                    "quantity": "1"
+                },
+                {
+                    "item": "Bay leaves (optional)",
+                    "quantity": "To taste"
+                },
+                {
+                    "item": "Cilantro, chopped",
+                    "quantity": "1/2 cup"
+                },
+                {
+                    "item": "Lime, juiced",
+                    "quantity": "1"
+                },
+                {
+                    "item": "Shredded cheese (Colby, Cheddar, Monterey, etc.)",
+                    "quantity": "As desired"
+                },
+                {
+                    "item": "Sour cream or Greek yogurt (optional)",
+                    "quantity": "As desired"
+                },
+                {
+                    "item": "Tortilla chips",
+                    "quantity": "As desired"
+                },
+                {
+                    "item": "Avocado (optional)",
+                    "quantity": "As desired"
+                }
+            ],
+            "instructions": [
+                "In a soup pot, melt your butter and a touch of olive oil over medium-low heat.",
+                "Add in your onion and jalapeño. Season with a pinch of salt followed by your cumin, chili powder, oregano, garlic powder, and onion powder. Stir and sauté for 5-7 minutes.",
+                "Add in your garlic, stir, and cook for another 30 seconds.",
+                "Pour in your chicken broth, crushed tomatoes, rotel, salt, pepper, chicken bouillon, beans, corn, and shredded chicken. Stir to combine and taste for seasonings.",
+                "Add in your bay leaves, cover, and simmer for at least 30 minutes.",
+                "Once your soup is done simmering, discard your bay leaves. Add in your cilantro and lime juice. Stir and serve immediately.",
+                "Top with shredded cheese, tortilla chips, sour cream, avocado, cilantro, lime juice, and hot sauce (optional). Enjoy!"
+            ]
         }
     ]
 }
