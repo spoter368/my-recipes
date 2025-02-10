@@ -382,12 +382,12 @@
                     "item": "Onion soup mix"
                 },
                 {
-                    "quantity": "2 lbs",
+                    "quantity": "3+ lbs",
                     "item": "Beef roast"
                 },
                 {
-                    "quantity": "as needed",
-                    "item": "Baby carrots (or sliced)"
+                    "quantity": "1 medium bag",
+                    "item": "Baby carrots"
                 },
                 {
                     "quantity": "1",
@@ -398,7 +398,7 @@
                     "item": "Yellow small potatoes, chopped"
                 },
                 {
-                    "quantity": "1 box",
+                    "quantity": "1 box (6 cups)",
                     "item": "Beef broth (large)"
                 },
                 {
@@ -923,6 +923,37 @@
                 "Slowly drizzle the butter into the bowl while stirring the crumbs with a fork. Start with 3-4 tablespoons of butter and add more as needed until crumbs form.",
                 "Do not over-mix (you do not want this to become like a dough).",
                 "Store in the refrigerator until ready to use. Evenly spread across muffins, quick breads, or pies."
+            ]
+        },
+        {
+            "name": "Delicious Queso",
+            "ingredients": [
+                {
+                    "quantity": "1/2 lb",
+                    "item": "Pepperjack cheese"
+                },
+                {
+                    "quantity": "1/2 lb",
+                    "item": "White american cheese"
+                },
+                {
+                    "quantity": "1 can (12oz)",
+                    "item": "Evaporated milk"
+                },
+                {
+                    "quantity": "1/2 can (3.5oz)",
+                    "item": "Green chiles"
+                },
+                {
+                    "quantity": "Light dusting",
+                    "item": "Cumin"
+                }
+            ],
+            "instructions": [
+                "Chop cheese into small (1cm^3) cubes",
+                "In a medium pot, combine all ingredients over medium heat",
+                "Serve when cheese starts to bubble"
+
             ]
         },
         {
